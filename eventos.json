@@ -1,0 +1,29 @@
+[
+    {
+        "nombre_evento": "Dia del Amigo",
+        "descripcion": "Sorteos y agasajo para amigos",
+        "dia": 20,
+        "mes": "julio",
+        "hora": 15,
+        "provincia": "Catamarca",
+        "localidad": "Santa María"
+    },
+    {
+        "nombre_evento": "Obra \"Felices los 4\"",
+        "descripcion": "Obra de teatro infantil",
+        "dia": 27,
+        "mes": "julio",
+        "hora": 16,
+        "provincia": "Córdoba",
+        "localidad": "Anisacate"
+    },
+    {
+        "nombre_evento": "Festival de la nieve",
+        "descripcion": "Musica en vivo y comida patagónica típica",
+        "dia": 23,
+        "mes": "julio",
+        "hora": 12,
+        "provincia": "Chubut",
+        "localidad": "Lago Puelo"
+    }
+]
