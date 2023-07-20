@@ -1,6 +1,6 @@
 # ¿A dónde voy en las vacaciones de invierno? Gratis...
 
-El proyecto tiene como objetivo desarrollar un programa que permita registrar y consultar eventos gratuitos que se llevarán a cabo en Argentina durante las vacaciones de invierno. Está dirigido a dos tipos de usuarios: aquellos que quieran registrar un evento con detalles como nombre, descripción, día, hora, provincia y localidad; y aquellos que deseen consultar eventos en su municipio o en un rango de fechas.
+El proyecto tiene como objetivo desarrollar un programa que permita registrar y consultar eventos gratuitos que se llevarán a cabo en Argentina durante las vacaciones de invierno. Está dirigido a dos tipos de usuarios: aquellos que quieran registrar un evento con detalles como nombre, descripción, día, mes, hora, provincia y localidad; y aquellos que deseen consultar eventos en su municipio o en un rango de fechas.
 
 ## ⚡ Funcionalidades
 
