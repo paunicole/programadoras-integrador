@@ -9,7 +9,7 @@ El proyecto tiene como objetivo desarrollar un programa que permita registrar y 
 - `Consulta de todos los eventos`: Se mostrará una lista completa de todos los eventos registrados en el archivo JSON.
 - `Consulta de eventos entre dos fechas`: Los usuarios podrán seleccionar un rango de fechas y obtener una lista de eventos que se realizarán dentro de ese período.
 
-## 🏢 Estructura JSON
+## 🏛️ Estructura JSON
 Los registros de los eventos se guardarán en un archivo JSON, que servirá como base de datos para almacenar la información de los eventos. La estructura de un evento es la siguiente:
 
 ```json
